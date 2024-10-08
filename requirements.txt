@@ -1,5 +1,0 @@
-matplotlib
-numpy
-pylzma
-ipykernal
-torch
